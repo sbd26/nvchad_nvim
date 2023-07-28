@@ -1,3 +1,8 @@
-# Example_config
+# Custom Directory For NvChad
+This config is for Competitive Programming
 
-This can be used as an example custom config for NvChad, this branch is a minimal one. Do check the feature_full branch if you need all the ease in your config.
+
+## Overview
+![telescop](https://github.com/sbd26/image/blob/master/nvchad/telescope.png)
+![dash](https://github.com/sbd26/image/blob/master/nvchad/nvdash.png)
+![tree](https://github.com/sbd26/image/blob/master/nvchad/nvimtree.png)
